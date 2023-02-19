@@ -1,0 +1,17 @@
+.container-avatar {
+  display: flex;
+  flex-direction: column;
+  margin:20px 0;
+  
+}
+
+.container-avatar h1 {
+  text-align: center;
+}
+
+.container-avatar img {
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
