@@ -9,6 +9,7 @@ export default function App() {
     <div className="App">
      <Header/>
      <Avatar nomeUser='Giulyano Santos' img='https://pbs.twimg.com/profile_images/1486492494409969667/h9O4GQdm_400x400.jpg'/>
+     <Avatar nomeUser='Giulyano Santos' img='https://pbs.twimg.com/profile_images/1486492494409969667/h9O4GQdm_400x400.jpg'/>
 
     </div>
   )
