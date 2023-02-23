@@ -1,6 +1,6 @@
-import './Header.css'
-import Input from './Input'
-import Button from './Button'
+import '../Header/styles.css'
+import Input from '../Input/Input'
+import Button from '../Button'
 
 export default function Header() {
   return(<>

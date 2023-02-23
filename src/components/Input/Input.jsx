@@ -1,4 +1,4 @@
-import './Input.css'
+import '../Input/styles.css'
 
 export default function Input(props){
   
