@@ -1,8 +1,8 @@
 import '../Button/styles.css'
 
 
-export default function Button(props){
+export default function Button({textoInterno}){
   return(
-  <button >{props.textoInterno}</button>
+  <button >{textoInterno}</button>
   )
 }
